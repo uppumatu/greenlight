@@ -1,0 +1,677 @@
+{
+    "start": "Başlamaq",
+    "search": "Axtar",
+    "home": "Ev",
+    "previous": "Əvvəlki",
+    "back": "Geri",
+    "next": "Sonrakı",
+    "view": "Baxın",
+    "join": "Qoşulun",
+    "edit": "Redaktə et",
+    "save": "Yadda saxla",
+    "save_changes": "Dəyişiklikləri yadda saxla",
+    "update": "Yeniləyin",
+    "report": "Hesabat",
+    "share": "Paylaşın",
+    "cancel": "Ləğv et",
+    "close": "Yaxın",
+    "delete": "Sil",
+    "copy": "Qoşulma Linkini Kopyalayın",
+    "or": "Və ya",
+    "online": "Onlayn",
+    "help_center": "Yardım Mərkəzi",
+    "are_you_sure": "Sən əminsən?",
+    "return_home": "Evə qayıt",
+    "created_at": "Yaradılıb",
+    "view_recordings": "Qeydlərə baxın",
+    "join_session": "Sessiyaya qoşulun",
+    "no_result_search_input": "\"{{ searchInput }}\" üçün heç bir nəticə tapılmadı",
+    "action_permanent": "Bu əməliyyat geri qaytarıla bilməz.",
+    "homepage": {
+        "welcome_bbb": "BigBlueButton-a xoş gəlmisiniz.",
+        "bigbluebutton_description": "BigBlueButton onlayn dərslər üçün açıq mənbəli veb konfrans sistemidir. Platforma tələbələrə real vaxt rejimində əməkdaşlıq etmək və rəy almağa imkan verməklə tətbiqi öyrənmə üçün vaxtı maksimum dərəcədə artırır.",
+        "greenlight_description": "Sessiyaları keçirmək üçün öz otaqlarınızı yaradın və ya qısa və rahat keçiddən istifadə edərək başqalarına qoşulun.",
+        "learn_more": "BigBlueButton haqqında ətraflı məlumat əldə edin",
+        "explore_features": "Xüsusiyyətlərimizi araşdırın",
+        "meeting_title": "Görüşə başlayın",
+        "meeting_description": "Video, audio, ekran paylaşımı, söhbət və tətbiqi öyrənmə üçün tələb olunan bütün alətlərlə virtual sinifə başlayın.",
+        "recording_title": "Görüşlərinizi qeyd edin",
+        "recording_description": "BigBlueButton görüşlərini qeyd edin və materialı nəzərdən keçirmək və əks etdirmək üçün onları tələbələrlə paylaşın.",
+        "settings_title": "Otaqlarınızı idarə edin",
+        "settings_description": "Effektiv sinif otağına cavabdeh olmaq üçün otaqlarınızı və görüş parametrlərinizi konfiqurasiya edin.",
+        "and_more_title": "Və daha çox!",
+        "and_more_description": "BigBlueButton tətbiqi öyrənmə üçün daxili alətlər təklif edir və dərs zamanı vaxtınıza qənaət etmək üçün nəzərdə tutulub.",
+        "enter_meeting_url": "Görüş URL-ni daxil edin",
+        "enter_meeting_url_instruction": "Zəhmət olmasa, BigBlueButton görüşünüzün URL-ni aşağıdakı sahəyə daxil edin."
+    },
+    "authentication": {
+        "sign_in": "Daxil ol",
+        "sign_up": "Abunə olun",
+        "sign_out": "Çıxış",
+        "email": "E-poçt",
+        "password": "parol",
+        "confirm_password": "Şifrəni təsdiqləyin",
+        "enter_email": "E-poçtunuzu daxil edin",
+        "enter_name": "Adınızı daxil edin",
+        "remember_me": "Məni xatırla",
+        "forgot_password": "Şifrəni unutmusunuz?",
+        "dont_have_account": "Hesabınız yoxdur?",
+        "create_account": "Hesab yarat",
+        "create_an_account": "Hesab yarat",
+        "already_have_account": "Artıq bir hesabınız var mı?"
+    },
+    "user": {
+        "user": "İstifadəçi",
+        "users": "İstifadəçilər",
+        "name": "ad",
+        "email_address": "E-poçt ünvanı",
+        "authenticator": "Autentifikator",
+        "full_name": "Tam adı",
+        "no_user_found": "İstifadəçi tapılmadı",
+        "type_three_characters": "Digər istifadəçilərə göstərmək üçün üç (3) və ya daha çox simvol daxil edin.",
+        "search_not_found": "İstifadəçi tapılmadı",
+        "profile": {
+            "profile": "Profil",
+            "language": "Dil",
+            "role": "Rol",
+            "administrator": "Administrator",
+            "guest": "Qonaq"
+        },
+        "account": {
+            "account_info": "Hesab Məlumatı",
+            "delete_account": "Hesabı Sil",
+            "change_password": "Parolun dəyişdirilməsi",
+            "reset_password": "Parolu sıfırlamak",
+            "update_account_info": "Hesab məlumatını yeniləyin",
+            "current_password": "Hazırkı şifrə",
+            "new_password": "yeni şifrə",
+            "confirm_password": "Şifrəni təsdiqləyin",
+            "permanently_delete_account": "Hesabınızı Daimi Silin",
+            "delete_account_description": "Hesabınızı silməyi seçsəniz, onu bərpa etmək mümkün olmayacaq.\n Parametrlər, otaqlar və qeydlər daxil olmaqla hesabınızla bağlı bütün məlumatlar silinəcək.",
+            "delete_account_confirmation": "Bəli, hesabımı silmək istərdim",
+            "are_you_sure_delete_account": "Hesabınızı silmək istədiyinizə əminsiniz?"
+        },
+        "avatar": {
+            "upload_avatar": "Avatarı yükləyin",
+            "delete_avatar": "Avatarı silin",
+            "crop_avatar": "Avatarınızı kəsin"
+        },
+        "pending": {
+            "title": "Gözləyən Qeydiyyat",
+            "message": "Qeydiyyatdan keçdiyiniz üçün təşəkkür edirik! Hesabınız hazırda administrator tərəfindən təsdiqlənməyi gözləyir."
+        }
+    },
+    "room": {
+        "room": "Otaq",
+        "rooms": "Otaqlar",
+        "room_name": "Otaq adı",
+        "add_new_room": "+ Yeni Otaq",
+        "create_room": "Otaq yaradın",
+        "delete_room": "Otağı silin",
+        "create_new_room": "Yeni Otaq yaradın",
+        "enter_room_name": "Otaq adını daxil edin",
+        "shared_by": "tərəfindən paylaşıldı",
+        "last_session": "Son Sessiya: {{ localizedTime }}",
+        "no_last_session": "Əvvəlki sessiya yaradılmayıb",
+        "search_not_found": "Otaq tapılmadı",
+        "rooms_list_is_empty": "Hələ heç bir otağınız yoxdur!",
+        "rooms_list_empty_create_room": "Aşağıdakı düyməyə klikləyərək və otaq adını daxil etməklə ilk otağınızı yaradın.",
+        "meeting": {
+            "start_meeting": "Görüşə başlayın",
+            "join_meeting": "Görüşə qoşulun",
+            "meeting_invitation": "Siz qoşulmağa dəvət olundunuz",
+            "meeting_not_started": "Görüş hələ başlamamışdır",
+            "join_meeting_automatically": "Görüş başlayanda avtomatik qoşulacaqsınız",
+            "recording_consent": "Mən etiraf edirəm ki, bu sessiya qeydə alına bilər. Aktiv olarsa, bura mənim səsim və videom daxil ola bilər."
+        },
+        "presentation": {
+            "presentation": "Təqdimat",
+            "click_to_upload": "Yükləmək üçün klikləyin",
+            "drag_and_drop": "və ya sürükləyib buraxın",
+            "upload_description": "İstənilən ofis sənədini və ya PDF faylını yükləyin ( {{size}} ölçüsündən böyük olmayan). Faylın ölçüsündən asılı olaraq, istifadə olunmazdan əvvəl yükləmək üçün əlavə vaxt tələb oluna bilər",
+            "are_you_sure_delete_presentation": "Bu təqdimatı silmək istədiyinizə əminsiniz?"
+        },
+        "shared_access": {
+            "access": "Giriş",
+            "add_share_access": "+ Paylaşım Girişi",
+            "share_room_access": "Otaq Girişini Paylaşın",
+            "add_some_users": "Bəzi istifadəçilər əlavə etməyin vaxtı gəldi!",
+            "add_some_users_description": "Yeni istifadəçilər əlavə etmək üçün aşağıdakı düyməyə klikləyin və bu otağı paylaşmaq istədiyiniz istifadəçiləri axtarın və ya seçin.",
+            "delete_shared_access": "Paylaşılan Girişi silin",
+            "are_you_sure_delete_shared_access": "Bu Paylaşılan Girişi silmək istədiyinizə əminsiniz?"
+        },
+        "settings": {
+            "settings": "Parametrlər",
+            "room_name": "Otaq adı",
+            "user_settings": "İstifadəçi Parametrləri",
+            "allow_room_to_be_recorded": "Otağın qeyd olunmasına icazə verin",
+            "require_signed_in": "Qoşulmazdan əvvəl istifadəçilərdən daxil olmalarını tələb edin",
+            "require_signed_in_message": "Bu otağa qoşulmaq üçün daxil olmalısınız.",
+            "require_mod_approval": "Qoşulmazdan əvvəl moderatorun təsdiqini tələb edin",
+            "allow_any_user_to_start": "İstənilən istifadəçiyə bu görüşü başlamağa icazə verin",
+            "all_users_join_as_mods": "Bütün istifadəçilər moderator kimi qoşulur",
+            "mute_users_on_join": "İstifadəçilər qoşulduqda səsi söndürün",
+            "generate": "Yaratmaq",
+            "access_code": "Giriş kodu",
+            "mod_access_code": "Moderator giriş kodu",
+            "mod_access_code_optional": "Moderator Giriş Kodu (istəyə görə)",
+            "access_code_required": "Zəhmət olmasa giriş kodunu daxil edin",
+            "wrong_access_code": "Səhv Giriş Kodu",
+            "generate_viewers_access_code": "İzləyicilər üçün giriş kodu yaradın",
+            "generate_mods_access_code": "Moderatorlar üçün giriş kodu yaradın",
+            "are_you_sure_delete_room": "Bu otağı silmək istədiyinizə əminsiniz?"
+        }
+    },
+    "recording": {
+        "recording": "Səsyazma",
+        "recordings": "Səsyazmalar",
+        "name": "ad",
+        "length": "Uzunluq",
+        "users": "İstifadəçilər",
+        "visibility": "Görünüş",
+        "formats": "Formatlar",
+        "published": "Nəşr edilmişdir",
+        "unpublished": "Dərc olunmayıb",
+        "protected": "Qorunur",
+        "public": "İctimai",
+        "public_protected": "İctimai\/Qorunan",
+        "length_in_minutes": "{{recording.length}} dəq.",
+        "processing_recording": "Qeydiyyat emal edilir, bu bir neçə dəqiqə çəkə bilər...",
+        "copy_recording_urls": "Qeydiyyat URL(lər)ini Kopyalayın",
+        "recordings_list_empty": "Hələ heç bir qeydiniz yoxdur!",
+        "public_recordings_list_empty": "Hələ heç bir ictimai qeyd yoxdur!",
+        "recordings_list_empty_description": "Görüşə başladıqdan və onu qeyd etdikdən sonra qeydlər burada görünəcək.",
+        "public_recordings_list_empty_description": "Səsyazmalar mövcud olduqda burada görünəcək.",
+        "delete_recording": "Qeydi Sil",
+        "are_you_sure_delete_recording": "Bu qeydi silmək istədiyinizə əminsiniz?",
+        "search_not_found": "Heç bir qeyd tapılmadı"
+    },
+    "admin": {
+        "admin_panel": "Administrator Paneli",
+        "manage_users": {
+            "manage_users": "İstifadəçiləri idarə edin",
+            "active": "Aktiv",
+            "approve": "Təsdiq edin",
+            "decline": "Rədd olun",
+            "pending": "gözləyən",
+            "banned": "Qadağan edilib",
+            "ban": "Qadağa",
+            "unban": "Qadağadan çıxarın",
+            "deleted": "Silindi",
+            "invited_tab": "Dəvət",
+            "invite_user": "İstifadəçi dəvət et",
+            "send_invitation": "Dəvət Göndər",
+            "enter_user_email": "İstifadəçinin e-poçtunu daxil edin",
+            "new_user": "Yeni istifadəçi",
+            "add_new_user": "Yeni istifadəçi",
+            "create_new_user": "Yeni İstifadəçi Yaradın",
+            "edit_user": "İstifadəçini redaktə et",
+            "delete_user": "İstifadəçini silin",
+            "users_edit_path": "İstifadəçilər\/Edit",
+            "create_account": "Hesab yarat",
+            "create_room": "Otaq yaradın",
+            "create_new_room": "Yeni Otaq yaradın",
+            "user_created_at": "Yaradıldı: {{localizedTime}}",
+            "are_you_sure_delete_account": "{{user.name}} adlı istifadəçinin hesabını silmək istədiyinizə əminsiniz?",
+            "delete_account_warning": "Bu hesabı silməyi seçsəniz, onu bərpa etmək mümkün olmayacaq.",
+            "empty_active_users": "Bu serverdə hələ aktiv istifadəçi yoxdur!",
+            "empty_active_users_subtext": "İstifadəçinin statusu aktiv olaraq dəyişdirildikdə, onlar burada görünəcək.",
+            "empty_pending_users": "Bu serverdə hələ də gözləyən istifadəçi yoxdur!",
+            "empty_pending_users_subtext": "İstifadəçinin statusu gözlənilən statusuna dəyişdirildikdə, onlar burada görünəcək.",
+            "empty_banned_users": "Bu serverdə hələ qadağan edilmiş istifadəçi yoxdur!",
+            "empty_banned_users_subtext": "İstifadəçinin statusu qadağaya dəyişdirildikdə, onlar burada görünəcək.",
+            "empty_invited_users": "Bu serverdə hələ dəvət olunmuş istifadəçi yoxdur!",
+            "empty_invited_users_subtext": "İstifadəçinin statusu dəvətli statusuna dəyişdirildikdə, onlar burada görünəcək.",
+            "invited": {
+                "time_sent": "Göndərilən vaxt",
+                "valid": "Etibarlıdır"
+            }
+        },
+        "server_rooms": {
+            "server_rooms": "Server otaqları",
+            "name": "ad",
+            "owner": "Sahibi",
+            "room_id": "Otaq ID",
+            "participants": "İştirakçılar",
+            "status": "Vəziyyət",
+            "running": "Qaçış",
+            "not_running": "Qaçış deyil",
+            "active": "Aktiv",
+            "current_session": "Cari Sessiya: {{lastSession}}",
+            "last_session": "Son Sessiya: {{localizedTime}}",
+            "no_meeting_yet": "Hələ görüş yoxdur.",
+            "delete_server_rooms": "Server Otağını silin",
+            "resync_recordings": "Qeydləri yenidən sinxronlaşdırın",
+            "empty_room_list": "Hələ server otaqları yoxdur!",
+            "empty_room_list_subtext": "İlk otağınızı yaratdıqdan sonra otaqlar burada görünəcək."
+        },
+        "server_recordings": {
+            "server_recordings": "Server qeydləri",
+            "latest_recordings": "Ən Son Səsyazmalar",
+            "no_recordings_found": "Heç bir qeyd tapılmadı."
+        },
+        "site_settings": {
+            "site_settings": "Sayt Parametrləri",
+            "customize_greenlight": "Greenlight-ı fərdiləşdirin",
+            "appearance": {
+                "appearance": "Görünüş",
+                "brand_color": "Marka Rəngi",
+                "regular": "Daimi",
+                "lighten": "İşıqlandırmaq",
+                "brand_image": "Brend Şəkli",
+                "click_to_upload": "Yükləmək üçün klikləyin",
+                "drag_and_drop": "və ya sürükləyib buraxın",
+                "upload_brand_image_description": "İstənilən PNG, JPG və ya SVG faylını yükləyin ( {{size}} ölçüsündən böyük olmayan). Faylın ölçüsündən asılı olaraq, istifadə olunmazdan əvvəl yükləmək üçün əlavə vaxt tələb oluna bilər",
+                "remove_branding_image": "Brend şəklini silin"
+            },
+            "administration": {
+                "administration": "İdarəetmə",
+                "terms": "Şərtlər və qaydalar",
+                "privacy": "Gizlilik Siyasəti",
+                "privacy_policy": "Gizlilik Siyasəti",
+                "change_term_links": "Səhifənin aşağı hissəsində görünən şərtlər bağlantılarını dəyişdirin",
+                "change_privacy_link": "Səhifənin aşağı hissəsində görünən məxfilik bağlantısını dəyişdirin",
+                "change_url": "URL dəyişdirin",
+                "enter_link": "Linki bura daxil edin"
+            },
+            "settings": {
+                "settings": "Parametrlər",
+                "allow_users_to_share_rooms": "İstifadəçilərə otaqları paylaşmağa icazə verin",
+                "allow_users_to_share_rooms_description": "Deaktiv olaraq ayarlandıqda düymə otaq seçimləri açılan menyusundan silinəcək və istifadəçilərin otaqları paylaşmasının qarşısını alacaq",
+                "allow_users_to_preupload_presentation": "İstifadəçilərə təqdimatları əvvəlcədən yükləməyə icazə verin",
+                "allow_users_to_preupload_presentation_description": "İstifadəçilər həmin xüsusi otaq üçün standart təqdimat kimi istifadə edilmək üçün təqdimatı əvvəlcədən yükləyə bilərlər"
+            },
+            "registration": {
+                "registration": "Qeydiyyat",
+                "role_mapping_by_email": "E-poçtla Rol Xəritəçəkmə",
+                "role_mapping_by_email_description": "İstifadəçini e-poçtundan istifadə edərək bir rolla əlaqələndirin. Bu formatda olmalıdır: role1=email1, role2=email2",
+                "enter_role_mapping_rule": "Rol xəritələşdirilməsi qaydasını daxil edin",
+                "resync_on_login": "Hər Girişdə İstifadəçi Məlumatlarını Yenidən Sinxronlaşdırın",
+                "resync_on_login_description": "Xarici autentifikasiya provayderini həmişə Greenlight-dakı məlumatlara uyğunlaşdırmaq üçün istifadəçinin məlumatını hər dəfə daxil olduqda yenidən sinxronizasiya edin",
+                "default_role": "Defolt Rol",
+                "default_role_description": "Yeni yaradılmış istifadəçilərə təyin ediləcək standart rol",
+                "registration_method": "Qeydiyyat Metodu",
+                "registration_method_description": "İstifadəçilərin vebsaytda qeydiyyatdan keçmə üsulunu dəyişdirin",
+                "registration_methods": {
+                    "open": "Qeydiyyatı açın",
+                    "invite": "Dəvətlə qoşulun",
+                    "approval": "Təsdiq et\/Rədd et"
+                }
+            }
+        },
+        "room_configuration": {
+            "room_configuration": "Otaq Konfiqurasiyası",
+            "default": "Könüllü (defolt: aktivdir)",
+            "optional": "Könüllü (defolt: deaktiv)",
+            "enabled": "Məcburi Aktivləşdirildi",
+            "disabled": "Əlil",
+            "configurations": {
+                "allow_room_to_be_recorded": "Otağın qeyd olunmasına icazə verin",
+                "allow_room_to_be_recorded_description": "Otaq sahiblərinə otağı qeyd etmək seçiminin olub-olmadığını müəyyən etməyə imkan verir. Aktivdirsə, görüş başlayan kimi moderator hələ də \"Qeyd et\" düyməsini klikləməlidir.",
+                "require_user_signed_in": "Qoşulmazdan əvvəl istifadəçilərdən daxil olmalarını tələb edin",
+                "require_user_signed_in_description": "Yalnız Greenlight hesabı olan istifadəçilərə görüşə qoşulmağa icazə verir. Əgər onlar daxil deyillərsə, otağa qoşulmağa cəhd edərkən giriş səhifəsinə yönləndiriləcəklər.",
+                "require_mod_approval": "Qoşulmazdan əvvəl moderatorun təsdiqini tələb edin",
+                "require_mod_approval_description": "İstifadəçi qoşulmağa çalışdıqda BigBlueButton görüşünün moderatoruna müraciət edir. İstifadəçi təsdiqlənərsə, o, görüşə qoşula biləcək.",
+                "allow_any_user_to_start_meeting": "İstənilən istifadəçiyə görüşə başlamağa icazə verin",
+                "allow_any_user_to_start_meeting_description": "İstənilən istifadəçiyə istənilən vaxt görüşə başlamağa icazə verin. Varsayılan olaraq, görüşə yalnız otaq sahibi başlaya bilər.",
+                "allow_users_to_join_as_mods": "Bütün istifadəçilər moderator kimi qoşulur",
+                "allow_users_to_join_as_mods_description": "Bütün istifadəçilərə görüşə qoşulduqda BigBlueButton-da moderator imtiyazları verir",
+                "mute_users_on_join": "İstifadəçilər qoşulduqda səsi söndürün",
+                "mute_users_on_join_description": "İstifadəçi BigBlueButton görüşünə qoşulduqda avtomatik olaraq səsi kəsir",
+                "viewer_access_code": "İzləyici Giriş Kodu",
+                "viewer_access_code_description": "Otaq sahiblərinə istifadəçilərlə paylaşıla bilən təsadüfi alfasayısal koda malik olmağa imkan verir. Kod yaradılarsa, otaq görüşlərinə qoşulmaq üçün istifadəçilərdən tələb olunacaq.",
+                "mod_access_code": "Moderator giriş kodu",
+                "mod_access_code_description": "Otaq sahiblərinə istifadəçilərlə paylaşıla bilən təsadüfi alfasayısal koda malik olmaq imkanı verir. Kod yaradılarsa, tələb olunmayacaq və hər hansı otaq iclasında istifadə edildikdə istifadəçi moderator kimi qoşulacaq."
+            }
+        },
+        "roles": {
+            "role": "Rol",
+            "roles": "Rollar",
+            "administrator": "Administrator",
+            "guest": "Qonaq",
+            "manage_roles": "Rolları idarə edin",
+            "delete_role": "Rolu silin",
+            "are_you_sure_delete_role": "Bu rolu silmək istədiyinizə əminsiniz?",
+            "enter_role_name": "Rol adı daxil edin",
+            "add_role": "+ Rol yaradın",
+            "create_role": "Rol Yaradın",
+            "create_new_role": "Yeni rol yaradın",
+            "no_role_found": "Heç bir rol tapılmadı.",
+            "search_not_found": "Heç bir rol tapılmadı",
+            "edit": {
+                "create_room": "Bu rolu olan istifadəçilərə otaqlar yaratmağa icazə verin",
+                "record": "Bu rolu olan istifadəçilərə görüşlərini yazmağa icazə verin",
+                "manage_users": "Bu rolu olan istifadəçilərə istifadəçiləri idarə etməyə icazə verin",
+                "manage_rooms": "Bu rolu olan istifadəçilərə server otaqlarını idarə etməyə icazə verin",
+                "manage_recordings": "Bu rolu olan istifadəçilərə server qeydlərini idarə etməyə icazə verin",
+                "manage_site_settings": "Bu rolu olan istifadəçilərə sayt parametrlərini idarə etməyə icazə verin",
+                "manage_roles": "Bu rolu olan istifadəçilərə digər rolları redaktə etməyə icazə verin",
+                "shared_list": "Bu rolu olan istifadəçiləri otaqları paylaşmaq üçün açılan menyuya daxil edin",
+                "room_limit": "Otaq limiti"
+            }
+        }
+    },
+    "toast": {
+        "success": {
+            "user": {
+                "user_created": "Yeni istifadəçi yaradılıb.",
+                "user_updated": "İstifadəçi yeniləndi.",
+                "user_deleted": "İstifadəçi silindi.",
+                "avatar_updated": "Avatar yeniləndi.",
+                "password_updated": "Parol yeniləndi.",
+                "account_activated": "Hesabınız aktivləşdirilib.",
+                "activation_email_sent": "Hesabınızı aktivləşdirmək üçün təlimatları ehtiva edən e-poçt göndərildi.",
+                "reset_pwd_email_sent": "Parolunuzu sıfırlamaq üçün təlimatları ehtiva edən e-poçt göndərildi."
+            },
+            "session": {
+                "signed_out": "Hesabdan çıxmısınız."
+            },
+            "room": {
+                "room_created": "Yeni otaq yaradılıb.",
+                "room_updated": "Otaq yenilənib.",
+                "room_deleted": "Otaq silindi.",
+                "room_shared": "Otaq paylaşıldı.",
+                "room_unshared": "Otaq paylaşılmadı.",
+                "recordings_synced": "Otaq qeydləri sinxronlaşdırılıb.",
+                "room_configuration_updated": "Otaq konfiqurasiyası yeniləndi.",
+                "room_setting_updated": "Otaq parametri yeniləndi.",
+                "presentation_updated": "Təqdimat yeniləndi.",
+                "presentation_deleted": "Təqdimat silindi.",
+                "joining_meeting": "Görüşə qoşulmaq...",
+                "meeting_started": "Görüş başladı.",
+                "access_code_copied": "Giriş kodu kopyalandı.",
+                "access_code_generated": "Yeni giriş kodu yaradıldı.",
+                "access_code_deleted": "Giriş kodu silindi.",
+                "copied_meeting_url": "Görüş URL-i kopyalandı. Görüşə qoşulmaq üçün keçiddən istifadə etmək olar."
+            },
+            "site_settings": {
+                "site_setting_updated": "Sayt parametri yeniləndi.",
+                "brand_color_updated": "Brend rəngi yeniləndi.",
+                "brand_image_updated": "Brend imici yeniləndi.",
+                "brand_image_deleted": "Brend şəkli silindi.",
+                "privacy_policy_updated": "Məxfilik siyasəti yeniləndi.",
+                "terms_of_service_updated": "Xidmət şərtləri yeniləndi."
+            },
+            "recording": {
+                "recording_visibility_updated": "Qeydin görünməsi yeniləndi.",
+                "recording_name_updated": "Qeydiyyatın adı yeniləndi.",
+                "recording_deleted": "Səsyazma silindi.",
+                "copied_urls": "Qeydə alınan URL-lər kopyalandı."
+            },
+            "role": {
+                "role_created": "Yeni rol yaradılıb.",
+                "role_updated": "Rol yeniləndi.",
+                "role_deleted": "Rol silindi.",
+                "role_permission_updated": "Rol icazəsi yeniləndi."
+            },
+            "invitations": {
+                "invitation_sent": "Dəvət göndərilib."
+            }
+        },
+        "error": {
+            "problem_completing_action": "Əməliyyat tamamlana bilməz.\n Zəhmət olmasa bir daha cəhd edin.",
+            "file_type_not_supported": "Fayl növü dəstəklənmir.",
+            "file_size_too_large": "Fayl ölçüsü çox böyükdür.",
+            "file_upload_error": "Faylı yükləmək mümkün deyil.",
+            "signin_required": "Bu səhifəyə daxil olmaq üçün daxil olmalısınız.",
+            "roles": {
+                "role_assigned": "Bu rol ən azı bir istifadəçiyə təyin edildiyi üçün silinə bilməz."
+            },
+            "users": {
+                "signup_error": "Siz təsdiqlənə bilməzsiniz. Zəhmət olmasa administratorunuzla əlaqə saxlayın.",
+                "invalid_invite": "Dəvət nişanınız ya etibarsızdır, ya da yanlışdır. Yeni nişan almaq üçün inzibatçınızla əlaqə saxlayın.",
+                "email_exists": "Bu e-poçtun altında hesab artıq mövcuddur. Lütfən, başqa e-poçt ilə yenidən cəhd edin.",
+                "old_password": "Daxil etdiyiniz parol səhvdir.",
+                "pending": "Qeydiyyatınız administrator tərəfindən təsdiqlənməyi gözləyir. Zəhmət olmasa bir az sonra yenə cəhd edin.",
+                "banned": "Sizin bu proqrama girişiniz yoxdur. Bunun səhv olduğunu düşünürsünüzsə, administratorunuzla əlaqə saxlayın."
+            },
+            "rooms": {
+                "room_limit": "Otaq limitinə çatdığınız üçün otaq yaratmaq mümkün deyil."
+            },
+            "session": {
+                "invalid_credentials": "İstifadəçi adı və ya parol yanlışdır. Lütfən, etimadnaməsini doğrulayın və yenidən cəhd edin."
+            }
+        }
+    },
+    "global_error_page": {
+        "title": "Xəta",
+        "message": "Bağışlayın, nəsə xəta baş verdi. Hadisə yenidən baş verərsə, administratorla əlaqə saxlayın."
+    },
+    "not_found_error_page": {
+        "title": "Səhifə tapılmadı",
+        "message": "Üzr istəyirik, daxil olmağa çalışdığınız səhifəni tapmaq mümkün deyil."
+    },
+    "account_activation_page": {
+        "title": "Hesabın aktivləşdirilməsi",
+        "account_unverified": "Hesabınız hələ təsdiqlənməyib.",
+        "message": "Greenlight-dan istifadə etmək üçün, lütfən, sizə göndərilmiş aktivləşdirmə e-poçtundaki təlimatlara əməl etməklə hesabınızı təsdiqləyin.",
+        "resend_activation_link": "Əgər siz aktivləşdirmə e-poçtu almamısınızsa və ya ondan istifadə etməkdə problem yaşayırsınızsa, yeni aktivasiya e-poçtu tələb etmək üçün aşağıdakı düyməyə klikləyin.",
+        "resend_btn_lbl": "Doğrulamanı yenidən göndərin"
+    },
+    "forms": {
+        "validations": {
+            "full_name": {
+                "required": "Tam ad daxil edin",
+                "min": "Ad ən azı 2 simvol uzunluğunda olmalıdır",
+                "max": "Ad ən çox 255 simvol uzunluğunda olmalıdır"
+            },
+            "email": {
+                "required": "Zəhmət olmasa e-poçt ünvanını daxil edin",
+                "email": "Daxil edilmiş dəyər e-poçt formatına uyğun gəlmir",
+                "min": "E-poçt ən azı 6 simvol uzunluğunda olmalıdır",
+                "max": "E-poçt ən çox 255 simvol uzunluğunda olmalıdır"
+            },
+            "password": {
+                "required": "Zəhmət olmasa parol daxil edin",
+                "match": "Parol ən azı olmalıdır:",
+                "min": "- Səkkiz personaj",
+                "lower": "- Bir kiçik hərf",
+                "upper": "- Bir böyük hərf",
+                "digit": "- Bir rəqəm",
+                "symbol": "- Bir simvol",
+                "max": "Parol maksimum 255 simvol uzunluğunda olmalıdır"
+            },
+            "password_confirmation": {
+                "required": "Zəhmət olmasa parol təsdiqini daxil edin",
+                "match": "Parollar uyğun gəlmir"
+            },
+            "emails": {
+                "required": "Ən azı bir etibarlı e-poçt daxil edin",
+                "list": "Lütfən, etibarlı e-poçtların vergüllə ayrılmış siyahısını təqdim edin (user@users.com,user1@users.com,user2@users.com)"
+            },
+            "role_name": {
+                "required": "Lütfən, rolun adını daxil edin"
+            },
+            "role": {
+                "limit": {
+                    "required": "Zəhmət olmasa otaq sayı limitini daxil edin",
+                    "min": "İcazə verilən minimum 0-dır",
+                    "max": "İcazə verilən maksimum 100-dür"
+                },
+                "type": {
+                    "error": "Bir nömrə göstərməlisiniz"
+                }
+            },
+            "room": {
+                "name": {
+                    "required": "Zəhmət olmasa otağın adını daxil edin.",
+                    "min": "Ad ən azı 2 simvol uzunluğunda olmalıdır"
+                }
+            },
+            "room_join": {
+                "name": {
+                    "required": "Zəhmət olmasa adınızı daxil edin."
+                }
+            },
+            "url": {
+                "invalid": "Yanlış URL"
+            }
+        },
+        "room": {
+            "fields": {
+                "name": {
+                    "label": "Otaq adı",
+                    "placeholder": "Otaq adı daxil edin..."
+                }
+            }
+        },
+        "room_join": {
+            "fields": {
+                "name": {
+                    "label": "ad",
+                    "placeholder": "Adınızı daxil edin"
+                },
+                "access_code": {
+                    "label": "Giriş kodu",
+                    "placeholder": "Giriş kodunu daxil edin"
+                },
+                "recording_consent": {
+                    "label": "Mən etiraf edirəm ki, bu sessiya qeydə alına bilər. Aktiv edilərsə, bura mənim səsim və videom daxil ola bilər."
+                }
+            }
+        },
+        "user": {
+            "signup": {
+                "fields": {
+                    "full_name": {
+                        "label": "Tam adı",
+                        "placeholder": "Tam adınızı daxil edin"
+                    },
+                    "email": {
+                        "label": "E-poçt",
+                        "placeholder": "E-poçtunuzu daxil edin"
+                    },
+                    "password": {
+                        "label": "parol",
+                        "placeholder": "Parol yaradın"
+                    },
+                    "password_confirmation": {
+                        "label": "Şifrəni təsdiqləyin",
+                        "placeholder": "Şifrəni təsdiqləyin"
+                    }
+                }
+            },
+            "signin": {
+                "fields": {
+                    "email": {
+                        "label": "E-poçt",
+                        "placeholder": "E-poçt"
+                    },
+                    "password": {
+                        "label": "parol",
+                        "placeholder": "parol"
+                    },
+                    "remember_me": {
+                        "label": "Məni xatırla"
+                    }
+                }
+            },
+            "change_password": {
+                "fields": {
+                    "old_password": {
+                        "label": "Hazırkı şifrə",
+                        "placeholder": "Şifrənizi daxil edin"
+                    },
+                    "new_password": {
+                        "label": "yeni şifrə",
+                        "placeholder": "Yeni parolunuzu daxil edin"
+                    },
+                    "password_confirmation": {
+                        "label": "Şifrəni təsdiqləyin",
+                        "placeholder": "Yeni parolunuzu təsdiqləyin"
+                    }
+                },
+                "validations": {
+                    "old_password": {
+                        "required": "Zəhmət olmasa cari parolunuzu daxil edin"
+                    }
+                }
+            },
+            "forget_password": {
+                "fields": {
+                    "email": {
+                        "label": "E-poçt",
+                        "placeholder": "Hesab e-poçtunu daxil edin"
+                    }
+                },
+                "validations": {
+                    "email": {
+                        "required": "Hesab e-poçtunu daxil edin"
+                    }
+                }
+            },
+            "reset_password": {
+                "fields": {
+                    "new_password": {
+                        "label": "yeni şifrə",
+                        "placeholder": "Yeni parolunuzu daxil edin"
+                    },
+                    "password_confirmation": {
+                        "label": "Şifrəni təsdiqləyin",
+                        "placeholder": "Yeni parolunuzu təsdiqləyin"
+                    }
+                }
+            },
+            "update_user": {
+                "fields": {
+                    "full_name": {
+                        "label": "Tam adı"
+                    },
+                    "email": {
+                        "label": "E-poçt"
+                    },
+                    "language": {
+                        "label": "Dil"
+                    },
+                    "role": {
+                        "label": "Rol"
+                    }
+                }
+            }
+        },
+        "admin": {
+            "createUser": {
+                "fields": {
+                    "full_name": {
+                        "label": "Tam adı",
+                        "placeholder": "İstifadəçinin tam adını daxil edin"
+                    },
+                    "email": {
+                        "label": "E-poçt",
+                        "placeholder": "İstifadəçi e-poçtunu daxil edin"
+                    },
+                    "password": {
+                        "label": "Parol",
+                        "placeholder": "İstifadəçi parolunu daxil edin"
+                    },
+                    "password_confirmation": {
+                        "label": "Şifrəni təsdiqləyin",
+                        "placeholder": "Şifrəni təsdiq edin"
+                    }
+                }
+            },
+            "invite_user": {
+                "fields": {
+                    "emails": {
+                        "label": "E-poçtlar"
+                    }
+                }
+            },
+            "site_settings": {
+                "fields": {
+                    "value": {
+                        "placeholder": "Linki bura daxil edin..."
+                    }
+                }
+            },
+            "roles": {
+                "fields": {
+                    "name": {
+                        "label": "Rol Adı",
+                        "placeholder": "Rol adı daxil edin..."
+                    }
+                }
+            }
+        }
+    }
+}
